@@ -1,0 +1,5 @@
+
+
+.home-bgImg-container{
+    @include bgImage(100vh, $main-bgImage-path )
+}
